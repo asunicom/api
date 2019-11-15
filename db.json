@@ -1,7 +1,8 @@
 {
     "update_auto_video": {
-        "name": "中文",
-        "apkDesc": "升级提示",
+        "needForceUpdate": 1,
+        "updateTitle":"升级提示",
+        "apkDesc": "1.xxxxxx\n2.xxxxxx",
         "apkVersion": 11,
         "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
     },
