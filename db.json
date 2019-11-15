@@ -1,21 +1,21 @@
 {
-  "update_auto_video":{
-  "name":"中文",
-    "apkDesc":"升级提示",
-    "apkVersion":11,
-    "apkUrl":"https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
-  },
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello mdq"
+    "update_auto_video": {
+        "name": "中文",
+        "apkDesc": "升级提示",
+        "apkVersion": 11,
+        "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
     },
-     {
-      "id": 1,
-      "title": "hello mdq"
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello mdq"
+        },
+        {
+            "id": 1,
+            "title": "hello mdq"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
