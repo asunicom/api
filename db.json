@@ -1,9 +1,9 @@
 {
     "update_auto_video": {
-        "needForceUpdate": 1,
+        "needForceUpdate": 0,
         "updateTitle":"升级提示",
         "apkDesc": "1.xxxxxx\n2.xxxxxx",
-        "apkVersion": 11,
+        "apkVersion": 1,
         "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
     },
     "posts": [
