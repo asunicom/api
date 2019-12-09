@@ -2,8 +2,8 @@
     "update_auto_video": {
         "needForceUpdate": 0,
         "updateTitle":"升级提示",
-        "apkDesc": "修复360手机获取服务运行状态错误问题",
-        "apkVersion": 3,
+        "apkDesc": "增加对抖音极速版的支持",
+        "apkVersion": 201912091,
         "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
     },
     "posts": [
