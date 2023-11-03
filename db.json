@@ -1,14 +1,14 @@
 {
     "update_auto_video": {
         "needForceUpdate": 0,
-        "updateTitle":"升级提示",
+        "updateTitle": "升级提示",
         "apkDesc": "增加对火山极速版的支持\n目前支持火山、抖音、快手了",
         "apkVersion": 201912092,
         "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
     },
     "update_auto_dealer_tools": {
         "needForceUpdate": 0,
-        "updateTitle":"升级提示",
+        "updateTitle": "升级提示",
         "apkDesc": "",
         "apkVersion": 1,
         "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
@@ -25,5 +25,27 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "schemes":[
+        {
+            "name":"IM插件调试页",
+            "scheme":"autohome://dealerconsult/testpage"
+        },
+        {
+            "name":"flutter插件调试页",
+            "scheme":"autohome://flutter?url=flutter://dealer4shome/test"
+        },
+        {
+            "name":"IM debug page",
+            "scheme":""
+        },
+        {
+            "name":"IM debug page",
+            "scheme":""
+        },
+        {
+            "name":"IM debug page",
+            "scheme":""
+        }
+    ]
 }
