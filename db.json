@@ -2,8 +2,9 @@
     "update_scanner": {
         "needForceUpdate": 0,
         "updateTitle": "升级提示",
-        "apkDesc": "",
-        "apkVersion": 1,
+        "updateContent": "asdlkfjalksdjflakjsdlkfjalksdjf",
+        "versionCode": 2,
+        "versionName":"asdfasdfasdf",
         "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
     },
     "schemes":[
