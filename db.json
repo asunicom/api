@@ -13,6 +13,13 @@
         "apkVersion": 1,
         "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
     },
+    "update_scanner": {
+        "needForceUpdate": 0,
+        "updateTitle": "升级提示",
+        "apkDesc": "",
+        "apkVersion": 1,
+        "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
+    },
     "posts": [
         {
             "id": 1,
