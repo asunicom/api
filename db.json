@@ -20,19 +20,6 @@
         "apkVersion": 1,
         "apkUrl": "https://update-1257436387.cos.ap-beijing.myqcloud.com/app-release.apk"
     },
-    "posts": [
-        {
-            "id": 1,
-            "title": "hello mdq"
-        },
-        {
-            "id": 1,
-            "title": "hello mdq"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    },
     "schemes":[
         {
             "name":"IM插件调试页",
@@ -117,38 +104,6 @@
         {
             "name":"IM插件调试页",
             "scheme":"autohome://dealerconsult/testpage"
-        },
-        {
-            "name":"flutter插件调试页",
-            "scheme":"autohome://flutter?url=flutter://dealer4shome/test"
-        },
-        {
-            "name":"IM插件调试页",
-            "scheme":"autohome://dealerconsult/testpage"
-        },
-        {
-            "name":"flutter插件调试页",
-            "scheme":"autohome://flutter?url=flutter://dealer4shome/test"
-        },
-        {
-            "name":"IM插件调试页",
-            "scheme":"autohome://dealerconsult/testpage"
-        },
-        {
-            "name":"flutter插件调试页",
-            "scheme":"autohome://flutter?url=flutter://dealer4shome/test"
-        },
-        {
-            "name":"IM debug page",
-            "scheme":""
-        },
-        {
-            "name":"IM debug page",
-            "scheme":""
-        },
-        {
-            "name":"IM debug page",
-            "scheme":""
         }
     ]
 }
